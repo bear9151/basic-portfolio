@@ -1,0 +1,239 @@
+.headspace {
+	width: 960px;
+	margin: auto;
+}
+
+h1 {
+	color: white;
+	background-color: #4aaaa5;
+	float: left;
+	width: 300px;
+	line-height: 80px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.navlink {
+	line-height: 80px;
+	text-align: center;
+	margin: 0 20px 0 20px;
+	text-decoration: none;	
+}
+
+h2, h3 {
+	color: #4aaaa5;
+}
+
+p, a {
+	color: #777777;
+}
+
+p {
+	line-height: 40px;
+}
+
+header {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 0 0 1px 0;
+	width: 100%;
+	overflow: auto;
+}
+
+footer {
+	background-color: #666666;
+	width: 100%;
+	overflow: auto;
+	color: darkgrey;
+	line-height: 80px;
+	text-align: center;
+	border-color: #4aaaa5;
+	border-style: solid;
+	border-width: 5px 0 0 0;
+	font-size: 8px;
+}
+
+section, aside {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	border-width: 1px;
+	border-style: solid;
+	padding: 0 30px 30px 30px;
+	float: left;
+}
+
+section {
+	width: 590px;
+	margin: 0 36px 30px 0;
+}
+
+aside {
+	width: 210px;
+}
+
+h1, h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-image: url("../images/wavegrid.png");
+}
+
+nav {
+	color: lightgrey;
+	float: right;
+}
+
+.content {
+	width: 960px;
+	margin: auto;
+	padding: 30px 0 0 0;
+}
+
+h2 {
+	line-height: 80px;
+	font-size: 26px;
+	font-weight: bold;
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 0 0 2px 0;
+	margin: 0 0 30px 0;
+}
+
+h3 {
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: lightgrey;
+	border-style: solid;
+	border-width: 0 0 2px 0;
+	margin: 0 0 20px 0;
+}
+
+img {
+	float: left;
+}
+
+.profile_pic {
+	margin: 0 30px 30px 0;
+}
+
+.icon {
+	margin-right: 20px;
+}
+
+input {
+    width: 96%;
+    padding: 10px;
+    margin: 10px 0 22px 0;
+    border: 1px solid lightgrey;
+}
+
+input[type=submit] {
+	background-color: #4aaaa5;
+	color: white;
+	width: 100px;
+	font-size: 18px;
+}
+
+textarea {
+	width: 96%;
+	height: 200px;
+	padding: 10px;
+    margin: 10px 0 0 0;
+    border: 1px solid lightgrey;
+}
+
+h4 {
+	color: grey;
+	font-size: 18px;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 16px;
+}
+
+.port_block1 {
+	float: left;
+}
+.port_block2 {
+	float: right;
+}
+.port_block3 {
+	float: left;
+}
+.port_block4 {
+	float: right;
+}
+.port_block5 {
+	float: left;
+}
+
+.port_text1 {
+	color: white;
+	background-color: #4aaaa5;
+	float: left;
+	width: 280px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	position: relative;
+	bottom: 60px;
+	opacity: .85;
+}
+.port_text2 {
+	color: white;
+	background-color: #4aaaa5;
+	float: right;
+	width: 280px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	position: relative;
+	bottom: 60px;
+	opacity: .85;
+}
+.port_text3 {
+	color: white;
+	background-color: #4aaaa5;
+	float: left;
+	width: 280px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	position: relative;
+	bottom: 60px;
+	opacity: .85;
+}
+.port_text4 {
+	color: white;
+	background-color: #4aaaa5;
+	float: right;
+	width: 280px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	position: relative;
+	bottom: 60px;
+	opacity: .85;
+}
+.port_text5 {
+	color: white;
+	background-color: #4aaaa5;
+	clear: both; /* this allows the last h1 box to break down to another line*/
+	width: 280px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	position: relative;
+	bottom: 60px;
+	opacity: .85;
+}
